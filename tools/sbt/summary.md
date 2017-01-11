@@ -85,3 +85,4 @@ sbt是一个专门用来编译scala工程的编译工具，其本身也是用sca
 
 #### 参考资料
 - [sbt document](http://www.scala-sbt.org/release/docs/Setup.html)
+- [sbt summary](http://blog.csdn.net/dai451954706/article/details/50479392)
